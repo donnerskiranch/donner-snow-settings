@@ -1,0 +1,16 @@
+{
+  "cams": [
+    {
+      "name": "Deck Cam",
+      "description": "The lodge deck and Chair 1, looking up the slopes.",
+      "youtubeId": "ArDIIhAHwWE",
+      "offlineMessage": "Deck Cam is offline. Check back soon."
+    },
+    {
+      "name": "Mountain Cam",
+      "description": "The view from the top of the mountain, over the lakes and the Sierras.",
+      "youtubeId": "",
+      "offlineMessage": "Mountain Cam is offline for maintenance. Check back soon."
+    }
+  ]
+}
